@@ -39,7 +39,7 @@ This project is a backend authentication API built with Node.js, Express, and JW
 
 ### Test Users
 
-Below are the test users you can use to test the login functionality:
+Below are the test users that can be used to test the login functionality:
 
 | Email                | Password  | Username |
 |----------------------|-----------|----------|
